@@ -1,0 +1,9 @@
+com\awb\mvc\action\UserController.class
+com\awb\mvcframework\annotation\RequestMapping.class
+com\awb\mvcframework\annotation\Controller.class
+com\awb\mvcframework\annotation\Service.class
+com\awb\mvcframework\servlet\DispatcherServlet.class
+com\awb\service\UserService.class
+com\awb\service\impl\UserServiceImpl.class
+com\awb\mvcframework\annotation\RequestParam.class
+com\awb\mvcframework\annotation\Autowired.class
